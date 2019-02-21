@@ -1,0 +1,28 @@
+1 - Faça um programa que receba dois
+valores inteiros e realize a soma,
+subtração,divisão, resto da divisão,
+média e multiplicação
+
+f'olá senhor(a) {variavel}'
+
+2 - pedir nome e idade de usuario
+se o usuario for maior ou igual que 18
+ anos, aparecer em tela:
+ "pode entrar nomedapessoa"
+
+se o valor for menor que 11 anos
+aparecer em tela:
+"Menor de idade, Você ainda é criança"
+
+caso contrário:
+"Menor de idade"
+
+3 -  Escreva um programa que leia o nome de um funcionário,
+seu número de horas trabalhadas, o valor que recebe por hora
+e calcula o salário desse funcionário.
+ A seguir, mostre o nome e o salário do funcionário.
+
+4 - Escrever um algoritmo que verifique se uma pessoa está autorizada a pegar um empréstimo, baseado no valor e na renda de quem pede.
+Para que o empréstimo seja APROVADO, é necessário ter uma renda acima de 1000 reais. O valor do empréstimo deve estar entre 2000 reais e 15 vezes a renda informada.
+Se a renda mínima não for suficiente, o empréstimo é imediatamente DECLINADO.
+Se o valor pedido não for compatível com a renda, deve-se perguntar novamente informando os valores válidos.
